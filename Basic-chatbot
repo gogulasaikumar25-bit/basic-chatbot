@@ -1,7 +1,7 @@
 def chatbot():
-    print("===================================")
-    print("      WELCOME TO BASIC CHATBOT")
-    print("===================================")
+    print("=" * 40)
+    print("      WELCOME TO CHATBOT")
+    print("=" * 40)
     print("Type 'bye' to exit.\n")
 
     while True:
